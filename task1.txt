@@ -1,1 +1,1 @@
-“1st task”
+We use git commit to saves a snapshot of our changes to the local Git history.
